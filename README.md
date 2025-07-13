@@ -52,10 +52,13 @@ No such operator has been explicitly constructed. This work presents a numerical
 
 ## 3. Construction of the Annihilation Field
 
-Let \$\mathbb{P}\_n = {p\_1, p\_2, \dotsc, p\_n}\$ denote the first \$n\$ prime numbers. We define a real-valued annihilation field \$\mathcal{A}\_n(\gamma)\$ over \$\gamma \in \mathbb{R}\$ by
+Let \$\mathbb{P}\_n = {p\_1, p\_2, \dotsc, p\_n}\$ denote the first \$n\$ prime numbers. We define a real-valued annihilation field $\mathcal{A}\_n(\gamma)\$ over $\gamma \in \mathbb{R}\$ by
+
 
 $$
+
 \mathcal{A}_n(\gamma) := \sum_{k=1}^n \sin\left( \gamma \log p_k \right).
+
 $$
 
 This function is an oscillatory superposition of sinusoidal components whose frequencies are given by the logarithms of the primes. The function exhibits zero-crossing behavior that becomes increasingly structured as \$n\$ increases. These zero crossings serve as candidate eigenvalues for a trace operator constructed from the prime spectrum.
